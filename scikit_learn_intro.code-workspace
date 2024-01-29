@@ -7,8 +7,10 @@
 	"settings": {
 		"cSpell.words": [
 			"darkgrid",
+			"distplot",
 			"figsize",
 			"fillna",
+			"histplot",
 			"kdeplot",
 			"pclas",
 			"pclass",
