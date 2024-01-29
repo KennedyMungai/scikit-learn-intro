@@ -15,6 +15,7 @@
 			"iloc",
 			"kdeplot",
 			"multiclass",
+			"multilabel",
 			"multioutput",
 			"pclas",
 			"pclass",
