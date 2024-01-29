@@ -12,7 +12,9 @@
 			"kdeplot",
 			"pclas",
 			"pclass",
-			"Scikit"
+			"Scikit",
+			"xlabel",
+			"ylabel"
 		]
 	}
 }
