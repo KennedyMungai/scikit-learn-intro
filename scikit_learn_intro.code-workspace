@@ -6,6 +6,7 @@
 	],
 	"settings": {
 		"cSpell.words": [
+			"annots",
 			"boxplot",
 			"cmap",
 			"darkgrid",
@@ -28,9 +29,11 @@
 			"retbins",
 			"Scikit",
 			"Sklearn",
+			"textcoords",
 			"winequality",
 			"xlabel",
 			"xticks",
+			"xytext",
 			"ylabel"
 		]
 	}
