@@ -30,6 +30,7 @@
 			"multilabel",
 			"Multinomial",
 			"multioutput",
+			"openml",
 			"pclas",
 			"pclass",
 			"qcut",
