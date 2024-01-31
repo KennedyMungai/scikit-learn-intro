@@ -7,6 +7,7 @@
 	"settings": {
 		"cSpell.words": [
 			"annots",
+			"autopct",
 			"boxplot",
 			"cmap",
 			"darkgrid",
@@ -35,6 +36,7 @@
 			"retbins",
 			"Scikit",
 			"Sklearn",
+			"stopwords",
 			"textcoords",
 			"winequality",
 			"wordcloud",
