@@ -22,6 +22,7 @@
 			"fillna",
 			"histplot",
 			"iloc",
+			"imshow",
 			"kdeplot",
 			"kmeans",
 			"multiclass",
